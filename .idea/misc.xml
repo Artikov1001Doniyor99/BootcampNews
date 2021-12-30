@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/drawable-v24/edit_style.xml" value="0.20833333333333334" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/fragment_fourth.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/fragment_home.xml" value="0.19375" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/fragment_third.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/item_custom_dialog.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/item_rv.xml" value="0.22" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/layout/item_spinner.xml" value="0.1" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/menu/add_menu.xml" value="0.12037037037037036" />
+        <entry key="..\:/PDP_LESSONS/Modul_6_lesson_3_1/app/src/main/res/menu/pop_menu.xml" value="0.528125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
